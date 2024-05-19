@@ -20,6 +20,7 @@
 
 
 
+![Custom Badge](https://img.shields.io/badge/Text-Blue-blue)
 
 
 
@@ -37,5 +38,4 @@
 
 
 
-
-<span style="color:blue">Warning: may not actually be the smarest machine known to man</span>.
+<span style="color:blue"> Warning: may not actually be the smartest machine known to man. </span>
