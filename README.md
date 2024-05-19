@@ -1,6 +1,6 @@
-### The Smartest Machine Known to Man
+# The Smartest Machine Known to Man
 
-# To start asking NS questions simply download the two files(make sure they are in the same directory) and compile using `gcc ns.c` and execute your new genius file with `./a.exe`
+### To start asking NS questions simply download the two files(make sure they are in the same directory) and compile using `gcc ns.c` and execute your new genius file with `./a.exe`
 
 
 <br><br>
