@@ -20,21 +20,7 @@
 
 
 
-![Custom Badge](https://img.shields.io/badge/Text-Blue-blue)
-
-
-
-
-
-
-
-
-
-
- https://img.shields.io/badge/Warning: may not actually be the smartest machine known to man.-FF0000
-
-
-
+![Warning: may not actually be the smartest machine known to man](https://img.shields.io/badge/Warning-may%20not%20actually%20be%20the%20smartest%20machine%20known%20to%20man-red)
 
 
 
