@@ -26,8 +26,7 @@ void answer(char question[]){
         printf("Error opening file\n");
         exit(1);
     }
-    //each line is in ascii format of 105 100 107 
-    //print line one after another and convert to letter
+ 
     while (fscanf(file, "%s", answer) != EOF){
         for (int i = 0; i < strlen(answer); i++){
             printf("%c", answer[i]);
